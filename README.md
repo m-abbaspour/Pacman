@@ -1,4 +1,4 @@
 # Pacman
-<img src='pacman.png'>
+<img src="./Pacman.png">
 
 Developed with JavaScript and HTML
